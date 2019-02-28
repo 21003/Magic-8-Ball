@@ -24,12 +24,26 @@ public class Main {
             System.out.println("You will have a very lucky day "); // Positive 1
         }
         if (userNumber > 10 && userNumber <= 20) {
-
-            System.out.println("Your day will be HORRIBLE good luck ");
+            System.out.println("Your day will be HORRIBLE good luck "); // Negative 1
         }
-        
-    }
-}
+        if (userNumber > 20 && userNumber <= 30) {
+            System.out.println("Today you will meet someone. No one important just someone "); // Positive 2
+        }
+        if (userNumber > 30 && userNumber <= 40) {
+            System.out.println("Some time soon you will step on a lego ");// Negative 2
+        }
+        if (userNumber > 40 && userNumber <= 50) {
+            System.out.println("Today you find some money when you clean your room");//Postive 3
+        }
+        if (userNumber > 50 && userNumber<=60) {
+            System.out.println("A fastfood employee will mess up your order");//Negative 3
+        }
+
+        }
+        }
+
+
+
 
 
 
