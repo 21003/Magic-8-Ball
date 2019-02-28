@@ -17,8 +17,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/LickingHeights/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="537">
-              <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+            <state relative-caret-position="554">
+              <caret line="53" column="122" lean-forward="true" selection-start-line="53" selection-start-column="122" selection-end-line="53" selection-end-column="122" />
             </state>
           </provider>
         </entry>
@@ -41,7 +41,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="806" />
     <option name="width" value="774" />
     <option name="height" value="878" />
@@ -207,8 +207,8 @@
     <entry file="file://$PROJECT_DIR$/src/com/LickingHeights/Magic8Ball.java" />
     <entry file="file://$PROJECT_DIR$/src/com/LickingHeights/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+        <state relative-caret-position="554">
+          <caret line="53" column="122" lean-forward="true" selection-start-line="53" selection-start-column="122" selection-end-line="53" selection-end-column="122" />
         </state>
       </provider>
     </entry>
